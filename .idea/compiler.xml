@@ -8,9 +8,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-cloud-weather" />
         <module name="weather-basic" />
+        <module name="weather-collection-server" />
+        <module name="weather-data-server" />
         <module name="weather-quartz" />
-        <module name="weather-report" />
         <module name="weather-redis" />
+        <module name="weather-report" />
+        <module name="weather-report-server" />
       </profile>
     </annotationProcessing>
   </component>

@@ -9,6 +9,9 @@
         <option value="$PROJECT_DIR$/weather-redis/pom.xml" />
         <option value="$PROJECT_DIR$/weather-quartz/pom.xml" />
         <option value="$PROJECT_DIR$/weather-report/pom.xml" />
+        <option value="$PROJECT_DIR$/weather-collection-server/pom.xml" />
+        <option value="$PROJECT_DIR$/weather-data-server/pom.xml" />
+        <option value="$PROJECT_DIR$/weather-report-server/pom.xml" />
       </list>
     </option>
   </component>
